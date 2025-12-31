@@ -54,7 +54,7 @@ class RoomCleanerAgent:
         self.display_room()
         print(f"Room cleaned in {steps} steps.")
 
-# Create and run the Room Cleaner Agent
 agent = RoomCleanerAgent()
 agent.run()
+
 
