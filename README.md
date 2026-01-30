@@ -1,2 +1,2 @@
-# resprepo-023314
+# LabReport2-023314
 NEC Practical
